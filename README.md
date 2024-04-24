@@ -1,4 +1,4 @@
-# 🫰 Hello Humans & AI. I'm Shlok!
+# 🫰 Hello Natural & Artificial Intelligence . I'm Shlok!
 
 # 💫 About Me:
 I am a graduate 🎓 with a strong background in computer science 💻 and experience in exploratory data analysis, machine learning, LLMs, and statistics 🔥. My research interests include Computer Vision, Geometric Machine Learning, Group theory, and Generative AI. As I am passionate about learning new topics in data science, visualizing data, and conducting research 🤓, I enjoy sharing valuable insights 🧐 and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or share concerns 💬.
